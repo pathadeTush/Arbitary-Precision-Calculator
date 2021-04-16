@@ -61,4 +61,4 @@
 
    Syntax: ``` make clean ```
 
-#### Read about Linux Command - [bc] (https://linux.die.net/man/1/bc).
+#### Read about Linux Command - [bc](https://linux.die.net/man/1/bc).
