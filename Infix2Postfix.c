@@ -1,8 +1,10 @@
+/*
+*     Author : Tushar Chakradhar Pathade    
+*     Source : https://github.com/pathadeTush
+*/
 
-#include<stdio.h>
-#include<limits.h>
-#include<stdlib.h>
-#include "calc.h"
+
+#include "Infix2Postfix.h"
 
 
 /* ------- traverse_expr -------- */

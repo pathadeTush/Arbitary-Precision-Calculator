@@ -1,7 +1,12 @@
+/*
+*     Author : Tushar Chakradhar Pathade    
+*     Source : https://github.com/pathadeTush
+*/
 
-#include<stdio.h>
-#include "calc.h"
-#include<stdlib.h>
+
+
+#include "eval_postfix.h"
+
 
 extern int z;
 // The evaluatePostfix function takes  postfix expression from main function.
@@ -152,7 +157,7 @@ void evaluatePostfix(NUM *post){
     }
     if(z)
         insert_At(&soln, 1, -1);
-    printf("\nOutput : \n");
+    printf("\nOutput : ");
     traverse_expr(soln);
 }
 
