@@ -49,8 +49,20 @@
      - Syntax: ``` ob=8; num ```
 
 
-   - ix. Expression Evaluation  
-     - Syntax: ``` num1 + num2/ num3 - (num4^num5) % num6 ```
+   - ix.   Expression Evaluation  
+     - Syntax: ``` num1 + num2/ num3 - (num4^num5) % num6 ```  
+     
+   
+   - x.    Relational Operations
+     - Syntax: ``` num1 > num2     OR   num1 >= num2 ```  
+     - Syntax: ``` num1 < num2     OR   num1 <= num2 ```
+     - Syntax: ``` num1 == num2   OR   num1 != num2 ```  
+     
+     
+   - xi.   Logical Operations  
+     - Syntax: ``` num1 && num2 ```
+     - Syntax: ``` num1 || num2 ```  
+     
    You can use any operation mentioned above except vii and viii. You can provide any arithmetic expression of any length.
 
    #### NOTE: You can use any number of any length with or without floating point.
