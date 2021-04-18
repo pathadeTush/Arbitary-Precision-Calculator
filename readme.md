@@ -1,4 +1,4 @@
-## This repository contains My First Project on data structure implemented in C Language.
+## This repository includes My First Project on data structure implemented in C Language.
 
 ## Project Title: Implementation of Linux Command - bc
 
@@ -6,7 +6,7 @@
 
 ### 1. First build the project
    Syntax:
-   ``` make   OR   make all ```
+   ``` make ```  OR  ``` make all ```
     
    It will create inetrmediate files and executable file named 'BC'
 
@@ -18,27 +18,27 @@
    #### Operations:
 
    - i.    Addition  
-     - Syntax: ``` num1 + num2  OR (num1 + num2) + num3 ```
+     - Syntax: ``` num1 + num2 ``` OR ``` (num1 + num2) + num3 ```
 
 
    - ii.   Subtraction
-     - Syntax: ``` num1 - num2  OR (num1 - num2) - num3 ```
+     - Syntax: ``` num1 - num2 ``` OR ``` (num1 - num2) - num3 ```
 
 
    - iii.  Multiplication
-     - Syntax: ``` num1 * num2  OR (num1 * num2) * num3 ```
+     - Syntax: ``` num1 * num2 ```  OR ``` (num1 * num2) * num3 ```
 
 
    - iv.   Division
-     - Syntax: ``` num1 / num2  OR (num1 / num2) / num3 ```
+     - Syntax: ``` num1 / num2 ``` OR ``` (num1 / num2) / num3 ```
 
 
    - v.    Modulo
-     - Syntax: ``` num1 % num2  OR (num1 % num2) % num3 ```
+     - Syntax: ``` num1 % num2 ```  OR ``` (num1 % num2) % num3 ```
 
 
    - vi.   Power
-     - Syntax: ``` num1 ^ num2  OR (num1 ^ num2) ^ num3 ```
+     - Syntax: ``` num1 ^ num2 ```  OR ``` (num1 ^ num2) ^ num3 ```
 
 
    - vii.  Decimal To Binary
@@ -54,16 +54,16 @@
      
    
    - x.    Relational Operations
-     - Syntax: ``` num1 > num2     OR   num1 >= num2 ```  
-     - Syntax: ``` num1 < num2     OR   num1 <= num2 ```
-     - Syntax: ``` num1 == num2   OR   num1 != num2 ```  
+     - Syntax: ``` num1 > num2 ```    OR  ``` num1 >= num2 ```  
+     - Syntax: ``` num1 < num2 ```    OR  ``` num1 <= num2 ```
+     - Syntax: ``` num1 == num2 ```  OR  ``` num1 != num2 ```  
      
      
    - xi.   Logical Operations  
      - Syntax: ``` num1 && num2 ```
      - Syntax: ``` num1 || num2 ```  
      
-   You can use any operation mentioned above except vii and viii. You can provide any arithmetic expression of any length.
+   You can use any operation mentioned above except vii and viii for expression evaluation. You can provide any arithmetic expression of any length.
 
    #### NOTE: You can use any number of any length with or without floating point.
 
@@ -73,3 +73,5 @@
    Syntax: ``` make clean ```
 
 #### Read about Linux Command - [bc](https://linux.die.net/man/1/bc)
+
+#### Please report bugs if any  @tusharpathade475@gmail.com
